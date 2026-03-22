@@ -542,11 +542,6 @@ table#player img {
 opacity: 0.8
 }
 
-div#lion_image:after {
-	content: url("https://theowoo.github.io/agbg/?shape=rectangle&width=235&height=225&borderWidth=10&borderRadius=11&gradientType=twoTones&hue=284&hueOffset=259&brightness=58&duration=8.7&hideControl=true");
-	position: absolute;
-	top: -25px !important;
-	left: -25px;
 
 
 /* CIRCULAR LION AND USER AVATAR */
